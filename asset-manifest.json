@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://peteralexandercharles.github.io/csb-jx3odo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/main.901de54e.chunk.js",
+    "main.js.map": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/main.901de54e.chunk.js.map",
+    "runtime-main.js": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/runtime-main.0e7a2c77.js",
+    "runtime-main.js.map": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/runtime-main.0e7a2c77.js.map",
+    "static/js/2.b0504009.chunk.js": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/2.b0504009.chunk.js",
+    "static/js/2.b0504009.chunk.js.map": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/2.b0504009.chunk.js.map",
+    "index.html": "https://peteralexandercharles.github.io/csb-jx3odo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://peteralexandercharles.github.io/csb-jx3odo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0504009.chunk.js.LICENSE.txt": "https://peteralexandercharles.github.io/csb-jx3odo/static/js/2.b0504009.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e7a2c77.js",
+    "static/js/2.b0504009.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.901de54e.chunk.js"
+  ]
+}
